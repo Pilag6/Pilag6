@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Pilag6
-- 👀 I’m interested in Web Development
+- 👋 Hi, I’m @Pilag6,
+-  
+- 👨‍💻 A professional Web Developer based in Berlin, with 10 years of experience. 
+- I have acquired the skills necessary to build great and premium websites that will help you to Upgrade your business to the Next Level.
+- 
+- 👀 My Portfolio: https://pilagonzalez.com/en/
+- 
 - 🌱 I’m currently learning Vue Js & React
 
-<!---
-Pilag6/Pilag6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
