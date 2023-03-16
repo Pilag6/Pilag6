@@ -5,5 +5,4 @@
 - 👀 My Portfolio: https://pilagonzalez.com/en/
 - 🌱 I’m currently learning React & Astro
 - My CV: 
-[Ezequiel Gonzalez CV.pdf](https://github.com/Pilag6/Pilag6/files/10949421/Ezequiel.Gonzalez.CV.pdf)
-
+[Download.pdf](https://github.com/Pilag6/Pilag6/files/10991468/Ezequiel.L.Gonzalez.Cv.pdf)
