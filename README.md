@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning React & Astro
 - 💾 My CV: [Download.pdf](https://github.com/Pilag6/Pilag6/files/12025992/CVEzequielGonzalez.pdf)
 
+---
+
 ## Some of my works
 
 <div>
