@@ -1,11 +1,12 @@
 
-# 👋 Hi, I’m Pila Gonzalez,
+# 👋 Hi, I’m Pila Gonzalez, [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pila-gonzalez/)
 
 - 👨‍💻 A professional Web Developer based in Berlin, with 10 years of experience. 
 - 🚀 I have acquired the skills necessary to build great and premium websites that will help you to Upgrade your business to the Next Level.
 - 👀 My Portfolio: https://pilagonzalez.com/en/
 - 🌱 I’m currently learning React & Astro
 - 💾 My CV: [Download.pdf](https://github.com/Pilag6/Pilag6/files/12025992/CVEzequielGonzalez.pdf)
+
 
 ---
 
@@ -26,4 +27,33 @@
 
 ---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/PilaGonzalezOk?style=social)](https://twitter.com/intent/follow?screen_name=PilaGonzalezOk)
+[![](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)]()
+[![](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)]()
+[![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)]()
+[![](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)]()
+[![](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)]()
+[![](https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white)]()
+[![](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)]()
+[![](https://img.shields.io/badge/Elementor-92003B.svg?style=for-the-badge&logo=Elementor&logoColor=white)]()
+[![](https://img.shields.io/badge/Gutenberg-000000.svg?style=for-the-badge&logo=Gutenberg&logoColor=white)]()
+[![](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)]()
+[![](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)]()
+[![](https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white)]()
+[![](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)]()
+[![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)]()
+[![](https://img.shields.io/badge/BEM-000000.svg?style=for-the-badge&logo=BEM&logoColor=white)]()
+[![](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+
+
