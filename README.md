@@ -21,3 +21,7 @@
   <img src="https://github.com/Pilag6/Pilag6/assets/79191808/e029eddd-95a4-49ee-8492-16ed71c7eb59" width=200px title="NBA Jersey Store">
   
 </div>
+
+---
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/PilaGonzalezOk?style=social)](https://twitter.com/intent/follow?screen_name=PilaGonzalezOk)
