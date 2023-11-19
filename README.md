@@ -23,9 +23,11 @@
   <img src="https://github.com/Pilag6/Pilag6/assets/79191808/e029eddd-95a4-49ee-8492-16ed71c7eb59" width=200px title="NBA Jersey Store">
   <img src="https://github.com/Pilag6/Pilag6/assets/79191808/2f79cce9-b6f4-40c5-b89c-b7e29e6b0385" width=200px title="La Prima Pizza">
   <img src="https://github.com/Pilag6/Pilag6/assets/79191808/78c74e53-5ebc-41c9-b902-de599e4825cd" width=200px title="Pila Portfolio DCI">
+  <img src="https://github.com/Pilag6/Pilag6/assets/79191808/b30f1d7f-e3e1-4137-a320-de2e328a0e1c" width=200px title="Pila Portfolio DCI">
   <a href="https://github.com/Pilag6/gridX"><img src="https://github.com/Pilag6/Pilag6/assets/79191808/3f91e4ab-9cfc-4d29-ba87-b9b9e26486e1" width=200px title="GridX"></a>
 
 </div>
+![Ecommerce](https://github.com/Pilag6/Pilag6/assets/79191808/b30f1d7f-e3e1-4137-a320-de2e328a0e1c)
 
 
 ---
