@@ -27,8 +27,6 @@
   <a href="https://github.com/Pilag6/gridX"><img src="https://github.com/Pilag6/Pilag6/assets/79191808/3f91e4ab-9cfc-4d29-ba87-b9b9e26486e1" width=200px title="GridX"></a>
 
 </div>
-![Ecommerce](https://github.com/Pilag6/Pilag6/assets/79191808/b30f1d7f-e3e1-4137-a320-de2e328a0e1c)
-
 
 ---
 ## Languages & Tools
