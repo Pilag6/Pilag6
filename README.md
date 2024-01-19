@@ -3,7 +3,7 @@
 
 - 👨‍💻 A professional Web Developer based in Berlin, with +10 years of experience.
 - ⌨️ Open Source Contributor 
-- 🚀 I have acquired the skills necessary to build great and premium websites that will help you to Upgrade your business to the Next Level.
+- 🚀 Passionate about JavaScript, React, Next, Astro, Vue, CSS & UX/UI Design.
 - 👀 My Portfolio: https://pilagonzalez.com/en/
 - 💾 My CV: [Download.pdf](https://pilagonzalez.com/wp-content/uploads/2024/01/Ezequiel-L-Gonzalez-CV.pdf)
 
