@@ -7,9 +7,6 @@
 - 👀 My Portfolio: https://piladev.netlify.app/
 - 💾 My CV: [Download Resume](https://github.com/Pilag6/Pilag6/files/14555436/ezequielGonzalez_CV.pdf)
 
-- 
-
-
 ---
 
 ## Projects - Some of my works
