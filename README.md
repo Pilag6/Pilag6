@@ -6,8 +6,7 @@
 - 🚀 Passionate about JavaScript, React, Next, Astro, CSS & UX/UI Design.
 - 🎓 Learning Mobile Development (Kotlin, Swift, React Native) 
 - 👀 My Portfolio: https://piladev.netlify.app/
-- 💾 My CV: [Download Resume](https://github.com/Pilag6/Pilag6/files/15488927/ezequielGonzalez_fullstack.pdf)
-
+- 💾 My CV: [Download Resume](https://github.com/user-attachments/files/17374876/ezequielGonzalez.pdf)
 
 ---
 
