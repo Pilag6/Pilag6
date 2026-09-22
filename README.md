@@ -6,8 +6,8 @@
 - 🚀 Passionate about JavaScript, React, Next, Astro, CSS & UX/UI Design.
 - 🎓 Learning Mobile Development (Kotlin, Swift, React Native) 
 - 👀 My Portfolio: [pilagonzalez.com](https://pilagonzalez.com/)
-- 💾 My CV: [Download Resume](https://github.com/user-attachments/files/29694689/ezequielGonzalez.pdf
-)
+- 💾 My CV: [Download Curriculum](https://github.com/user-attachments/files/32506815/Ezequiel_Gonzalez_Senior_Frontend_Engineer.pdf)
+
 
 ---
 
