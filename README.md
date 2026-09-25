@@ -1,10 +1,9 @@
 
 # 👋 Hi, I’m Pila Gonzalez, [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pila-gonzalez/)
 
-- 👨‍💻 A professional Full-Stack Web Developer based in Berlin, with +10 years of experience.
+- 👨‍💻 A professional Full-Stack Web Developer based in Berlin, with +14 years of experience.
 - ⌨️ Open Source Contributor 
-- 🚀 Passionate about JavaScript, React, Next, Astro, CSS & UX/UI Design.
-- 🎓 Learning Mobile Development (Kotlin, Swift, React Native) 
+- 🚀 Passionate about JavaScript, React, Next, Vue, Astro, CSS & UX/UI Design.
 - 👀 My Portfolio: [pilagonzalez.com](https://pilagonzalez.com/)
 - 💾 My CV: [Download Curriculum](https://github.com/user-attachments/files/32506815/Ezequiel_Gonzalez_Senior_Frontend_Engineer.pdf)
 
