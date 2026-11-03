@@ -5,7 +5,8 @@
 - ⌨️ Open Source Contributor 
 - 🚀 Passionate about JavaScript, React, Next, Vue, Astro, CSS & UX/UI Design.
 - 👀 My Portfolio: [pilagonzalez.com](https://pilagonzalez.com/)
-- 💾 My CV: [Download Curriculum](https://github.com/user-attachments/files/33197511/ezequielGonzalez.pdf)
+- 💾 My CV: [Download Resume](https://github.com/user-attachments/files/34314931/EzequielGonzalez_resume.pdf)
+
 
 
 
